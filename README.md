@@ -21,10 +21,13 @@ Dynamic and results-driven Data Science professional with a proven track record 
 - Academic Language Skills for Computer and Information Sciences
 
 ## Projects
-_Adoption and Evaluation of Explainable Artificial Intelligence Techniques in Occupational Health and Safety for the Prevention of Musculoskeletal Symptoms_
-_Forecasting Future Trends: SARIMA Modeling of Violent Crime in the UK_
-_Predicting Employee Absenteeism using Linear Regression Models in "R"_
-_Design, Development, Analysis and Performance Evaluation of Malaria Parasite Deep Learning algorithms_
+### _Adoption and Evaluation of Explainable Artificial Intelligence Techniques in Occupational Health and Safety for the Prevention of Musculoskeletal Symptoms_
+
+### _Forecasting Future Trends: SARIMA Modeling of Violent Crime in the UK_
+
+### _Predicting Employee Absenteeism using Linear Regression Models in "R"_
+
+### _Design, Development, Analysis and Performance Evaluation of Malaria Parasite Deep Learning algorithms_
 
 
 
