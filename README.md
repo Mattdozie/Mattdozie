@@ -29,10 +29,7 @@ Dynamic and results-driven Data Science professional with a proven track record 
 
 #### _Design, Development, Analysis and Performance Evaluation of Malaria Parasite Deep Learning algorithms_
 
-
-
-### Professional Experience
-
+## Professional Experience
 **NHS Business Services Authority - Prescription Services (_October 2023 - Present_)**
 - Spearheaded meticulous processing of prescription documents, ensuring adherence to stringent company guidelines and maintaining impeccable document quality for digital upload, constantly achieving accuracy levels of over 99.25%
 - Executed accurate extraction, transfer, and loading of critical data into the team's database, ensuring data integrity and reliability
@@ -47,7 +44,6 @@ Dynamic and results-driven Data Science professional with a proven track record 
 - Directed and motivated a high-performing team to consistently meet and exceed service level agreements and quality benchmarks
 
 **Guaranty Trust Bank Plc, Lagos, Nigeria (_October 2006 - July 2014_)**
-
 Assistant Head of Operations
 - Introduced and implemented pivotal policies and procedures, optimizing customer management and service delivery
 - Streamlined operations to enhance efficiency and effectiveness across various facets of the bank
