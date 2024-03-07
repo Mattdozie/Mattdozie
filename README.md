@@ -44,6 +44,7 @@ Dynamic and results-driven Data Science professional with a proven track record 
 - Directed and motivated a high-performing team to consistently meet and exceed service level agreements and quality benchmarks
 
 **Guaranty Trust Bank Plc, Lagos, Nigeria (_October 2006 - July 2014_)**
+
 Assistant Head of Operations
 - Introduced and implemented pivotal policies and procedures, optimizing customer management and service delivery
 - Streamlined operations to enhance efficiency and effectiveness across various facets of the bank
