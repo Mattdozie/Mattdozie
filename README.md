@@ -24,8 +24,7 @@ Dynamic and results-driven Data Science professional with a proven track record 
 ### Adoption and Evaluation of Explainable Artificial Intelligence Techniques in Occupational Health and Safety for the Prevention of Musculoskeletal Symptoms
 ### Forecasting Future Trends: SARIMA Modeling of Violent Crime in the UK
 ### Predicting Employee Absenteeism using Linear Regression Models in "R"
-### Design, Development, Analysis and Performance Evaluation of Malaria Parasite Deep Learning
-algorithms.
+### Design, Development, Analysis and Performance Evaluation of Malaria Parasite Deep Learning algorithms.
 
 
 ### Professional Experience
@@ -45,17 +44,17 @@ algorithms.
 
 **Guaranty Trust Bank Plc, Lagos, Nigeria (_October 2006 - July 2014_)**
 
-*Assistant Head of Operations
+Assistant Head of Operations
 - Introduced and implemented pivotal policies and procedures, optimizing customer management and service delivery
 - Streamlined operations to enhance efficiency and effectiveness across various facets of the bank
 - Played a key role in reshaping the bank's strategies for operational excellence
 
-*Banking Officer
+Banking Officer
 - Oversaw branch operations, ensuring efficient performance of tellers, security of the vault, and ATM functionality
 - Conducted meticulous daily reconciliation of the branch's financial records, demonstrating strong attention to detail
 - Contributed significantly to the operational integrity of the branch
 
-*Customer Service Specialist 
+Customer Service Specialist 
 - Prioritized and delivered high-quality customer service, ensuring exceptional customer satisfaction.
 - Expertly managed complex customer complaints, addressing both product-related issues and service grievances.
 - Upheld and enhanced the bank's reputation for excellence through unwavering commitment to customer-centric values.
