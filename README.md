@@ -1,4 +1,4 @@
-# Data Scientist | Data Analyst| Machine Learning Engineer | Artificial Intelligence Enthusiast
+## Data Scientist | Data Analyst| Machine Learning Engineer | Artificial Intelligence Enthusiast
 
 ## Summary:
 Dynamic and results-driven Data Science professional with a proven track record of delivering data-driven insights and solutions. Seeking a challenging Data Science role to leverage my diverse background in customer service, banking operations, and analytical skills to drive innovation and add value to the organization.
