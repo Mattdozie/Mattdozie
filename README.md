@@ -8,7 +8,7 @@ Dynamic and results-driven Data Science professional with a proven track record 
 ## Education
 - MSc.,  Data Science | Northumbria University, United Kingdom, Class: Distinction (_July 2023_)								  
 - MBA.,  Accounting   | Obafemi Awolowo University, Nigeria, Class: Merit   (_November 2015_)	 			        		
-- B.Sc., Physics      | FUT, Owerri, Nigeria Class: Second Class Upper (_December 2002_)
+- B.Sc., Physics      | FUT, Owerri, Nigeria Class: Second Class Upper
 
 
 ### Key MSc Courses and Training undertaken
@@ -43,7 +43,7 @@ Dynamic and results-driven Data Science professional with a proven track record 
 - Cultivated strong client relationships through regular communication and feedback sessions, guaranteeing unparalleled customer service and satisfaction.
 - Directed and motivated a high-performing team to consistently meet and exceed service level agreements and quality benchmarks
 
-**Guaranty Trust Bank Plc, Lagos, Nigeria (_October 2006 - July 2014_)**
+**Guaranty Trust Bank Plc, Lagos, Nigeria (_October 2010 - July 2014_)**
 
 Assistant Head of Operations
 - Introduced and implemented pivotal policies and procedures, optimizing customer management and service delivery
