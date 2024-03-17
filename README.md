@@ -31,6 +31,8 @@ Dynamic and results-driven Data Science professional with a proven track record 
 <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 </div>
+
+
 ## Education
 - MSc.,  Data Science | Northumbria University, United Kingdom, Class: Distinction (_July 2023_)								  
 - MBA.,  Accounting   | Obafemi Awolowo University, Nigeria, Class: Merit   (_November 2015_)	 			        		
