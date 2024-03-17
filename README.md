@@ -10,16 +10,25 @@ Dynamic and results-driven Data Science professional with a proven track record 
 <img src="https://img.shields.io/badge/-Data_Visualization-007ACC?&style=for-the-badge&logo=Data-Visualization&logoColor=white" />
 <img src="https://img.shields.io/badge/-Statistical_Analysis-007ACC?&style=for-the-badge&logo=statistics&logoColor=white" />
 <img src="https://img.shields.io/badge/-Predictive_Modeling-FF6F00?&style=for-the-badge&logo=Predictive-Modeling&logoColor=white" />
+<img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?&style=for-the-badge&logo=Machine_Learning&logoColor=white" />
+<img src="https://img.shields.io/badge/-Deep_Learning-FF6F00?&style=for-the-badge&logo=Deep_Learning&logoColor=white" />
+<img src="https://img.shields.io/badge/-Domain_Knowledge-6A5ACD?&style=for-the-badge&logo=Domain-Knowledge&logoColor=white" />
 </div>
 
-#### Languages & Applications
-<div>
-<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/-R-276DC3?&style=for-the-badge&logo=R&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=SQL&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/-Power_BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=white" />
-</div>
+#### 🧰 Languages and Tools          
+<img align="left" alt="ApacheSpark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg)" />
+<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg)" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg)" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg)" />
+<img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg)" />
+<img align="left" alt="ScikitLearn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg)" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
 ## Education
 - MSc.,  Data Science | Northumbria University, United Kingdom, Class: Distinction (_July 2023_)								  
