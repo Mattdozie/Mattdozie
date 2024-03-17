@@ -89,10 +89,9 @@ Customer Service Specialist
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattdozie&show_icons=true&theme=graywhite)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=README.md&show_icons=true&theme=graywhite)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Mattdozie&theme=graywhite&border_radius=4.5) -->
-
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=README.md&theme=graywhite&border_radius=4.5) -->
 
 ### Blog
 - [Data Science/AI Blog](https://)
