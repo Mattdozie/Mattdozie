@@ -59,10 +59,10 @@ Dynamic and results-driven Data Science professional with a proven track record 
 
 ## Professional Experience
 **NHS Business Services Authority - Prescription Services (_October 2023 - Present_)**
-- Spearheaded meticulous processing of prescription documents, ensuring adherence to stringent company guidelines and maintaining impeccable document quality for digital upload, constantly achieving accuracy levels of over 99.25%
-- Executed accurate extraction, transfer, and loading of critical data into the team's database, ensuring data integrity and reliability
-- Enforced robust data security measures in alignment with regulatory standards such as the Data Protection Act and upheld stringent Quality Management System protocols
-- Fostered a collaborative environment, actively supporting team members to surpass objectives and achieve collective goals
+- Spearhead meticulous processing of prescription documents, ensuring adherence to stringent company guidelines and maintaining impeccable document quality for digital upload, constantly achieving accuracy levels of over 99.25%
+- Execute accurate extraction, transfer, and loading of critical data into the team's database, ensuring data integrity and reliability
+- Enforce robust data security measures in alignment with regulatory standards such as the Data Protection Act and upheld stringent Quality Management System protocols
+- Foster a collaborative environment, actively supporting team members to surpass objectives and achieve collective goals
 
 **Access Bank Plc - Team Lead, Digital and Centralized Operations (_August 2014 - January 2022_)**
 - Managed pivotal business projects, delivering real-time feedback and comprehensive progress reports to stakeholders within strict timelines
