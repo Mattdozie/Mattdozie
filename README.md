@@ -15,7 +15,8 @@ Dynamic and results-driven Data Science professional with a proven track record 
 <img src="https://img.shields.io/badge/-Domain_Knowledge-6A5ACD?&style=for-the-badge&logo=Domain-Knowledge&logoColor=white" />
 </div>
 
-#### 🧰 Languages and Tools          
+#### 🧰 Languages and Tools    
+<div>
 <img align="left" alt="ApacheSpark" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg)" />
 <img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg)" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
@@ -29,7 +30,7 @@ Dynamic and results-driven Data Science professional with a proven track record 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
+</div>
 ## Education
 - MSc.,  Data Science | Northumbria University, United Kingdom, Class: Distinction (_July 2023_)								  
 - MBA.,  Accounting   | Obafemi Awolowo University, Nigeria, Class: Merit   (_November 2015_)	 			        		
