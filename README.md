@@ -69,5 +69,11 @@ Customer Service Specialist
 - Expertly managed complex customer complaints, addressing both product-related issues and service grievances.
 - Upheld and enhanced the bank's reputation for excellence through unwavering commitment to customer-centric values.
 
+## 📊 Stats
+
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattdozie&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Mattdozie&theme=gruvbox&border_radius=4.5) -->
+
 
 - [Data Science/AI Blog](https://)
