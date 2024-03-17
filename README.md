@@ -48,7 +48,8 @@ Dynamic and results-driven Data Science professional with a proven track record 
 - Academic Language Skills for Computer and Information Sciences
 
 ## Projects
-#### _Prevention of Musculoskeletal Symptoms Using Explainable Artificial Intelligence _
+
+#### _Prevention of Musculoskeletal Symptoms Using Explainable Artificial Intelligence_
 
 #### _Forecasting Future Trends: SARIMA Modeling of Violent Crime in the UK_
 
