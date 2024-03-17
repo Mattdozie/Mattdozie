@@ -16,7 +16,7 @@ Dynamic and results-driven Data Science professional with a proven track record 
 </div>
 
 #### 🧰 Languages and Tools    
-<div>
+
 <img align="left" alt="ApacheSpark" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
 <img align="left" alt="Keras" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />
 <img align="left" alt="Matplotlib" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
@@ -30,7 +30,6 @@ Dynamic and results-driven Data Science professional with a proven track record 
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-</div>
 
 
 ## Education
