@@ -55,6 +55,8 @@ Dynamic and results-driven Data Science professional with a proven track record 
 
 #### [_Predicting Employee Absenteeism using Linear Regression Models in "R"_](https://github.com/Mattdozie/Predicting-Employee-Absenteeism-using-Linear-Regression-Models-in-R-)
 
+#### [_Design, Development, Analysis and Performance Evaluation of Malaria Parasite Deep Learning Algorithms_](https://github.com/Mattdozie/Design-Development-Analysis-and-Performance-Evaluation-of-Malaria-Parasite-Deep-Learning-algorithms)
+
 #### ## Professional Experience
 **NHS Business Services Authority - Prescription Services (_October 2023 - Present_)**
 - Spearhead meticulous processing of prescription documents, ensuring adherence to stringent company guidelines and maintaining impeccable document quality for digital upload, constantly achieving accuracy levels of over 99.25%
