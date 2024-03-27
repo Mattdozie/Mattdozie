@@ -49,7 +49,7 @@ Dynamic and results-driven Data Science professional with a proven track record 
 
 ## Projects
 
-#### _Prevention of Musculoskeletal Symptoms Using Explainable Artificial Intelligence_
+#### [_Prevention of Musculoskeletal Symptoms Using Explainable Artificial Intelligence_](https://github.com/Mattdozie/Prevention-of-Musculoskeletal-Symptoms-Using-Explainable-Artificial-Intelligence-)
 
 #### _Forecasting Future Trends: SARIMA Modeling of Violent Crime in the UK_
 
