@@ -51,13 +51,11 @@ Dynamic and results-driven Data Science professional with a proven track record 
 
 #### [_Prevention of Musculoskeletal Symptoms Using Explainable Artificial Intelligence_](https://github.com/Mattdozie/Prevention-of-Musculoskeletal-Symptoms-Using-Explainable-Artificial-Intelligence-)
 
-#### _Forecasting Future Trends: SARIMA Modeling of Violent Crime in the UK_
+#### [_Forecasting Future Trends: SARIMA Modeling of Violent Crime in the UK_](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK)
 
-#### _Predicting Employee Absenteeism using Linear Regression Models in "R"_
+#### [_Predicting Employee Absenteeism using Linear Regression Models in "R"_](https://github.com/Mattdozie/Predicting-Employee-Absenteeism-using-Linear-Regression-Models-in-R-)
 
-#### _Design, Development, Analysis and Performance Evaluation of Malaria Parasite Deep Learning algorithms_
-
-## Professional Experience
+#### ## Professional Experience
 **NHS Business Services Authority - Prescription Services (_October 2023 - Present_)**
 - Spearhead meticulous processing of prescription documents, ensuring adherence to stringent company guidelines and maintaining impeccable document quality for digital upload, constantly achieving accuracy levels of over 99.25%
 - Execute accurate extraction, transfer, and loading of critical data into the team's database, ensuring data integrity and reliability
