@@ -49,7 +49,7 @@ Dynamic and results-driven Data Science professional with a proven track record 
 
 ## Projects
 
-### [_Spotify-Music-Analysis-Dashboard-in-PowerBI_](https://github.com/Mattdozie/Spotify-Music-Analysis-Dashboard-in-PowerBI)
+#### [_Spotify-Music-Analysis-Dashboard-in-PowerBI_](https://github.com/Mattdozie/Spotify-Music-Analysis-Dashboard-in-PowerBI)
 
 #### [_Prevention of Musculoskeletal Symptoms Using Explainable Artificial Intelligence_](https://github.com/Mattdozie/Prevention-of-Musculoskeletal-Symptoms-Using-Explainable-Artificial-Intelligence-)
 
