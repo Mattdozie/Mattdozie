@@ -66,14 +66,14 @@ Dynamic and results-driven Data Science professional with a proven track record 
 - Enforce robust data security measures in alignment with regulatory standards such as the Data Protection Act and upheld stringent Quality Management System protocols
 - Foster a collaborative environment, actively supporting team members to surpass objectives and achieve collective goals
 
-**Access Bank Plc - Team Lead, Digital and Centralized Operations (_August 2014 - January 2022_)**
+**Access Bank Plc - Team Manager, Digital and Centralized Operations (_August 2014 - January 2022_)**
 - Managed pivotal business projects, delivering real-time feedback and comprehensive progress reports to stakeholders within strict timelines
 - Conducted meticulous review and reconciliation of daily financial records, including inventory levels and income ledgers, ensuring accuracy and compliance
 - Championed seamless processing of online chequebook requests, cheque clearing operations, and Electronic Funds Transfer transactions, optimizing operational efficiency
 - Cultivated strong client relationships through regular communication and feedback sessions, guaranteeing unparalleled customer service and satisfaction.
 - Directed and motivated a high-performing team to consistently meet and exceed service level agreements and quality benchmarks
 
-**Guaranty Trust Bank Plc, Lagos, Nigeria (_October 2010 - July 2014_)**
+**Guaranty Trust Bank Plc (_October 2010 - July 2014_)**
 
 Assistant Head of Operations
 - Introduced and implemented pivotal policies and procedures, optimizing customer management and service delivery
